@@ -1,0 +1,14 @@
+# PET MONGODB PROJECT
+This project was created to try MongoDB as a storage
+
+## DOCKER STRUCTURE
+
+## LAUNCHING THE APPLICATION
+
+## RUN NODE JS APPLICATION LOCALY 
+
+## RESULTS
+### INSTEAD OF CONCLUSION
+
+
+
