@@ -15,7 +15,7 @@ services:
     user: "node"
     working_dir: /home/app
     environment:
-      - DB_HOST=mongo 
+      - DB_URI=mongodb://root:password@mongo:27017
       - PORT=80
     volumes:
       - ./app/:/home/app
